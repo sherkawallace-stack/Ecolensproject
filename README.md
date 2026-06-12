@@ -1,3 +1,8 @@
+# Project Title
+
+Final project for the Building AI course
+
+
 ## Summary
 Project Name: EcoLens – The AI Waste Sorter
 My idea in a nutshell
